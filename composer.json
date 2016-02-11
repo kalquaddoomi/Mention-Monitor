@@ -1,0 +1,10 @@
+{
+    "name": "kalquaddoomi/mention-monitor",
+    "description": "Twitter Stream Monitor that checks and stores mentions of important events",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "fennb/phirehose":"1.*",
+        "predis/predis":"1.*"
+    }
+}
